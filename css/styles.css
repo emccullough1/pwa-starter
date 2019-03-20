@@ -3,6 +3,7 @@ ul li:first-child  {
     list-style: none;
 }
 
+
 /* Carousel */
 .carousel-item {
     background: lightgray;
